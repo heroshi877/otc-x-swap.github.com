@@ -1,6 +1,6 @@
 {
     "app": {
-        "title": "AirSwap: P2P交易代幣的去中心化交易所和由程式開發DAO"
+        "title": "OTC-X-SWAP: P2P交易代幣的去中心化交易所和由程式開發DAO"
     },
     "balances": {
         "addToTokenSet": "導入",
@@ -51,12 +51,12 @@
         "join.author": "作家",
         "join.developer": "程式開發員",
         "join.getStarted": "開始吧！",
-        "join.intro": "AirSwap 是一個由程式開發者、設計師、作家和程式試驗者組成的開放原始碼社群，用於構建去中心化交易系統。 協議費用會自動分配給團隊貢獻者。",
+        "join.intro": "OTC-X-SWAP 是一個由程式開發者、設計師、作家和程式試驗者組成的開放原始碼社群，用於構建去中心化交易系統。 協議費用會自動分配給團隊貢獻者。",
         "join.paragraph2": "查看以下說明指南瞭解更多資訊。",
         "join.title": "加入AirSwap",
         "join.voter": "投票者",
         "protocolFeeDiscount.link": "Etherscan",
-        "protocolFeeDiscount.paragraph": "AirSwap 協議費用轉移到由 DAO 控制的費用池智能合約。",
+        "protocolFeeDiscount.paragraph": "OTC-X-SWAP 協議費用轉移到由 DAO 控制的費用池智能合約。",
         "protocolFeeDiscount.paragraph2": "這些費用將分配給積極參與管理和開發過程的團隊貢獻者。您可以隨時查看費用池的餘額在",
         "protocolFeeDiscount.stakeYourAst": "持有量與加入DAO",
         "protocolFeeDiscount.title": "手續費"
@@ -71,7 +71,7 @@
         "amount": "數額",
         "approvalRequired": "為了繼續，您必須確認{{symbol}}",
         "approve": "確認",
-        "approveMessage": "為了兌換代幣，先確認AirSwap。",
+        "approveMessage": "為了兌換代幣，先確認 OTC-X-SWAP。",
         "approvePending": "請準備確認{{symbol}}",
         "bestQuote": "最好假報",
         "chooseToken": "選擇代筆",
