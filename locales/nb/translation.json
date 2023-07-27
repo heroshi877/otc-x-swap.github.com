@@ -1,7 +1,7 @@
 {
     "app": {
-        "description": "AirSwap er et verktøy for P2P-handel.",
-        "title": "AirSwap: Open Source DAO og desentralisert plattform for peer-to-peer handler"
+        "description": "OTC-X-SWAP er et verktøy for P2P-handel.",
+        "title": "OTC-X-SWAP: Open Source  og desentralisert plattform for peer-to-peer handler"
     },
     "balances": {
         "addToTokenSet": "Legg til",
@@ -52,14 +52,14 @@
         "join.author": "Skribent",
         "join.developer": "Utvikler",
         "join.getStarted": "Kom i gang",
-        "join.intro": "AirSwap er et åpent samfunn for utviklere, designere og forfattere som utvikler desentraliserte handelssystemer sammen. Protokollgebyrene blir automatisk distribuert til bidragsytere.",
+        "join.intro": "OTC-X-SWAP er et åpent samfunn for utviklere, designere og forfattere som utvikler desentraliserte handelssystemer sammen. Protokollgebyrene blir automatisk distribuert til bidragsytere.",
         "join.paragraph2": "Sjekk ut de følgende guidene for å komme i gang:",
-        "join.title": "Bli med i AirSwap",
+        "join.title": "Bli med i OTC-X-SWAP",
         "join.voter": "Stemmegiver",
         "protocolFeeDiscount.link": "Etherscan",
-        "protocolFeeDiscount.paragraph": "Protokollgebyrene blir overført til en smart-kontrakt som er kontrollert av AirSwaps DAO.",
+        "protocolFeeDiscount.paragraph": "Protokollgebyrene blir overført til en smart-kontrakt som er kontrollert av OTC-X-SWAP DAO.",
         "protocolFeeDiscount.paragraph2": "Disse gebyrene blir distribuert til bidragsyterne som aktivt deltar i styrings- og utviklingsprosessen. Du kan sjekke balansen på denne kontrakten når som helst på",
-        "protocolFeeDiscount.stakeYourAst": "Lås dine AST og bli med AirSwaps DAO",
+        "protocolFeeDiscount.stakeYourAst": "Lås dine AST og bli med OTC-X-SWAP DAO",
         "protocolFeeDiscount.title": "Protokollgebyr"
     },
     "marketing": {
@@ -72,7 +72,7 @@
         "amount": "Sum",
         "approvalRequired": "Du må godkjenne {{symbol}} for å fortsette",
         "approve": "Godkjenn",
-        "approveMessage": "Godkjenn at AirSwap kan overføre dine tokens.",
+        "approveMessage": "Godkjenn at OTC-X-SWAP kan overføre dine tokens.",
         "approvePending": "Klar til å godkjenne {{symbol}}",
         "bestQuote": "Beste tilbud",
         "chooseToken": "Velg token",
