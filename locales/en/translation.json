@@ -1,7 +1,7 @@
 {
   "app": {
-    "description": "AirSwap powers peer-to-peer trading.",
-    "title": "AirSwap: Peer-to-peer Token Trading DEX and Open Source Developer DAO"
+    "description": "OTC-X-SWAP powers peer-to-peer trading.",
+    "title": "OTC-X-SWAP: Peer-to-peer Token Trading DEX "
   },
   "balances": {
     "addToTokenSet": "Import",
@@ -91,11 +91,11 @@
     "join.author": "Author",
     "join.developer": "Developer",
     "join.getStarted": "Get started",
-    "join.intro": "AirSwap is an open community of developers, designers, writers, and tinkerers building decentralized trading systems. Protocol fees are automatically distributed to contributors.",
+    "join.intro": "OTC-X-SWAP is an open community of developers, designers, writers, and tinkerers building decentralized trading systems. Protocol fees are automatically distributed to contributors.",
     "join.paragraph2": "Check out the following guides to learn more.",
-    "join.title": "Join AirSwap",
+    "join.title": "Join OTC-X-SWAP",
     "join.voter": "Voter",
-    "protocolFee.paragraph": "AirSwap includes protocol fees distributed to active contributor community members. By using AirSwap you're supporting the development and stewardship of decentralized trading protocols.",
+    "protocolFee.paragraph": "OTC-X-SWAP includes protocol fees distributed to active contributor community members. By using OTC-X-SWAP you're supporting the development and stewardship of decentralized trading protocols.",
     "protocolFee.title": "Protocol Fee"
   },
   "marketing": {
@@ -110,7 +110,7 @@
     "anyone": "Anyone",
     "approvalRequired": "To continue you must approve {{symbol}}",
     "approve": "Approve",
-    "approveMessage": "Approve AirSwap to transfer your tokens.",
+    "approveMessage": "Approve OTC-X-SWAP to transfer your tokens.",
     "approvePending": "Prepared to approve {{symbol}}",
     "areYouSureYouWantToCancel": "Are you sure you want to cancel?",
     "availableOrders": "Available orders",
