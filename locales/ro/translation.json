@@ -1,7 +1,7 @@
 {
     "app": {
-        "description": "AirSwap susține tranzacționarea peer-to-peer.",
-        "title": "AirSwap: peer-to-peer token Trading DEX și Dezvoltator Open Source DAO"
+        "description": "OTC-X-SWAP susține tranzacționarea peer-to-peer.",
+        "title": "OTC-X-SWAP: peer-to-peer token Trading DEX și Dezvoltator Open Source DAO"
     },
     "balances": {
         "addToTokenSet": "Importă",
@@ -52,12 +52,12 @@
         "join.author": "Autor",
         "join.developer": "Dezvoltator",
         "join.getStarted": "Începe",
-        "join.intro": "AirSwap este o comunitate deschis de dezvoltatori, designeri, scriitori si ganditori care construiesc un sistem de trading descentralizat. Taxele de protocol sunt distribuite in mod automat distribuitorilor.",
+        "join.intro": "OTC-X-SWAP este o comunitate deschis de dezvoltatori, designeri, scriitori si ganditori care construiesc un sistem de trading descentralizat. Taxele de protocol sunt distribuite in mod automat distribuitorilor.",
         "join.paragraph2": "Consultați următoarul ghid pentru a afla mai multe.",
-        "join.title": "Alătură-te AirSwap",
+        "join.title": "Alătură-te OTC-X-SWAP",
         "join.voter": "Alegător",
         "protocolFeeDiscount.link": "Ethescan",
-        "protocolFeeDiscount.paragraph": "Taxele de protocol AirSwap sunt transferate într-un pool de taxe smart contract controlat de DAO.",
+        "protocolFeeDiscount.paragraph": "Taxele de protocol OTC-X-SWAP sunt transferate într-un pool de taxe smart contract controlat de DAO.",
         "protocolFeeDiscount.paragraph2": "Aceste taxe sunt distribuite comunității de contribuitori care participă activ la guvernarea și dezvoltarea acestui proces. Poți să verifici oricând soldul pool-ului de taxe.",
         "protocolFeeDiscount.stakeYourAst": "Mizează si alatură-te DAO",
         "protocolFeeDiscount.title": "Taxe de protocol"
@@ -72,7 +72,7 @@
         "amount": "Suma",
         "approvalRequired": "Aprobă pentru a continua",
         "approve": "Aprobă",
-        "approveMessage": "Aprobează AirSwap sa îți transferi tokenurile",
+        "approveMessage": "Aprobează OTC-X-SWAP sa îți transferi tokenurile",
         "approvePending": "Gata de aprobare ",
         "bestQuote": "Cea mai bună cotă",
         "chooseToken": "Alege token",
